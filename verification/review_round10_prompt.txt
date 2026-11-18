@@ -1,0 +1,35 @@
+You are the Principal Software Architect and Design Lead for Shreevan Group.
+
+The entire "MOLECULE TO MANIFEST" web platform across all 10 rounds specified in PROMPTS.md and AGENTS.md is now fully built, verified, and committed to git:
+
+1. Rounds 0-7:
+   - Design System, Typography (Fraunces + Instrument Sans + JetBrains Mono), Color Tokens (--paper, --ink, etc.)
+   - Dynamic Formulary (264 products across 12 categories, periodic table grid, table procurement view, technical data sheet modals, quotation basket)
+   - 3D Blister-to-Globe hero (R3F, paper-textured globe, tablet trajectory arcs)
+   - 6 Interactive Chapters (Formulation, Portfolio, Quality, Documentation, Shipment, Your Brand) with desk-slide layout
+   - Batch Ticket progress indicator & Dossier Stack export document fan-out
+   - Complete content routes (/export-services, /quality, /private-label, /about, /privacy, /terms, /disclaimer)
+   - Zero Axe accessibility violations across desktop and mobile
+
+2. Round 8:
+   - Contact & RFQ Wizard (4-step guided RFQ with dynamic basket pre-population, custom molecule entry, file attachments)
+   - 3D Sealed Envelope animation (letter paper folds into thirds, slides into envelope, stamped with wax seal, transitions to perforated tracking ticket)
+   - API Route Handler (/api/enquiry with rate limiting, honeypot spam protection, Resend email dispatch)
+
+3. Round 9:
+   - Impeccable skills audit: PRODUCT.md and DESIGN.md completed
+   - Responsive polish across 4 distinct viewports (360x800 mobile, 768x1024 tablet, 1280x800 laptop, 1440x900 desktop)
+   - Reduced-motion accessibility verified
+   - 0 Axe violations on all tested viewports
+
+4. Round 10:
+   - Production Next.js build: 562 static routes prerendered with 0 errors
+   - Dynamic XML sitemap (covering core routes, categories, and all 264 formulations) and robots.txt
+   - Dynamic OpenGraph preview card generation via @vercel/og
+   - Comprehensive security headers (HSTS, CSP, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy)
+   - Vercel edge configuration in vercel.json
+   - Zero banned buzzwords, zero fake stats, zero emojis, zero placeholders
+
+Please provide:
+1. Your architectural review and formal sign-off on the completed implementation.
+2. What should be done next (deployment instructions, client onboarding checklist, domain configuration, operational monitoring, and ongoing maintenance)?
