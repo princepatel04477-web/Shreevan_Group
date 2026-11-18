@@ -21,7 +21,7 @@ def main():
             input="",
             capture_output=True,
             text=True,
-            timeout=120
+            timeout=180
         )
         print("=== Claude Code Review Output ===", flush=True)
         print(proc.stdout, flush=True)

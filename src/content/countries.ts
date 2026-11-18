@@ -1,0 +1,100 @@
+export interface CountryOption {
+  code: string;
+  name: string;
+  region: string;
+}
+
+export const COUNTRIES: readonly CountryOption[] = [
+  // Africa
+  { code: "DZ", name: "Algeria", region: "Africa" },
+  { code: "AO", name: "Angola", region: "Africa" },
+  { code: "BJ", name: "Benin", region: "Africa" },
+  { code: "BW", name: "Botswana", region: "Africa" },
+  { code: "BF", name: "Burkina Faso", region: "Africa" },
+  { code: "BI", name: "Burundi", region: "Africa" },
+  { code: "CM", name: "Cameroon", region: "Africa" },
+  { code: "CD", name: "Congo (DRC)", region: "Africa" },
+  { code: "CI", name: "Côte d'Ivoire", region: "Africa" },
+  { code: "EG", name: "Egypt", region: "Africa" },
+  { code: "ET", name: "Ethiopia", region: "Africa" },
+  { code: "GH", name: "Ghana", region: "Africa" },
+  { code: "KE", name: "Kenya", region: "Africa" },
+  { code: "MG", name: "Madagascar", region: "Africa" },
+  { code: "MW", name: "Malawi", region: "Africa" },
+  { code: "ML", name: "Mali", region: "Africa" },
+  { code: "MA", name: "Morocco", region: "Africa" },
+  { code: "MZ", name: "Mozambique", region: "Africa" },
+  { code: "NA", name: "Namibia", region: "Africa" },
+  { code: "NG", name: "Nigeria", region: "Africa" },
+  { code: "RW", name: "Rwanda", region: "Africa" },
+  { code: "SN", name: "Senegal", region: "Africa" },
+  { code: "ZA", name: "South Africa", region: "Africa" },
+  { code: "SD", name: "Sudan", region: "Africa" },
+  { code: "TZ", name: "Tanzania", region: "Africa" },
+  { code: "UG", name: "Uganda", region: "Africa" },
+  { code: "ZM", name: "Zambia", region: "Africa" },
+  { code: "ZW", name: "Zimbabwe", region: "Africa" },
+
+  // CIS & Central Asia
+  { code: "AM", name: "Armenia", region: "CIS" },
+  { code: "AZ", name: "Azerbaijan", region: "CIS" },
+  { code: "BY", name: "Belarus", region: "CIS" },
+  { code: "GE", name: "Georgia", region: "CIS" },
+  { code: "KZ", name: "Kazakhstan", region: "CIS" },
+  { code: "KG", name: "Kyrgyzstan", region: "CIS" },
+  { code: "MD", name: "Moldova", region: "CIS" },
+  { code: "RU", name: "Russia", region: "CIS" },
+  { code: "TJ", name: "Tajikistan", region: "CIS" },
+  { code: "TM", name: "Turkmenistan", region: "CIS" },
+  { code: "UZ", name: "Uzbekistan", region: "CIS" },
+
+  // South-East Asia & Asia Pacific
+  { code: "KH", name: "Cambodia", region: "South-East Asia" },
+  { code: "ID", name: "Indonesia", region: "South-East Asia" },
+  { code: "LA", name: "Laos", region: "South-East Asia" },
+  { code: "MY", name: "Malaysia", region: "South-East Asia" },
+  { code: "MM", name: "Myanmar", region: "South-East Asia" },
+  { code: "PH", name: "Philippines", region: "South-East Asia" },
+  { code: "SG", name: "Singapore", region: "South-East Asia" },
+  { code: "TH", name: "Thailand", region: "South-East Asia" },
+  { code: "VN", name: "Vietnam", region: "South-East Asia" },
+
+  // Latin America & Caribbean
+  { code: "AR", name: "Argentina", region: "Latin America" },
+  { code: "BO", name: "Bolivia", region: "Latin America" },
+  { code: "BR", name: "Brazil", region: "Latin America" },
+  { code: "CL", name: "Chile", region: "Latin America" },
+  { code: "CO", name: "Colombia", region: "Latin America" },
+  { code: "CR", name: "Costa Rica", region: "Latin America" },
+  { code: "DO", name: "Dominican Republic", region: "Latin America" },
+  { code: "EC", name: "Ecuador", region: "Latin America" },
+  { code: "GT", name: "Guatemala", region: "Latin America" },
+  { code: "HN", name: "Honduras", region: "Latin America" },
+  { code: "MX", name: "Mexico", region: "Latin America" },
+  { code: "PA", name: "Panama", region: "Latin America" },
+  { code: "PY", name: "Paraguay", region: "Latin America" },
+  { code: "PE", name: "Peru", region: "Latin America" },
+  { code: "UY", name: "Uruguay", region: "Latin America" },
+  { code: "VE", name: "Venezuela", region: "Latin America" },
+
+  // Middle East
+  { code: "BH", name: "Bahrain", region: "Middle East" },
+  { code: "IQ", name: "Iraq", region: "Middle East" },
+  { code: "JO", name: "Jordan", region: "Middle East" },
+  { code: "KW", name: "Kuwait", region: "Middle East" },
+  { code: "LB", name: "Lebanon", region: "Middle East" },
+  { code: "OM", name: "Oman", region: "Middle East" },
+  { code: "QA", name: "Qatar", region: "Middle East" },
+  { code: "SA", name: "Saudi Arabia", region: "Middle East" },
+  { code: "AE", name: "United Arab Emirates", region: "Middle East" },
+  { code: "YE", name: "Yemen", region: "Middle East" },
+
+  // Other Global Markets
+  { code: "AU", name: "Australia", region: "Oceania" },
+  { code: "CA", name: "Canada", region: "North America" },
+  { code: "DE", name: "Germany", region: "Europe" },
+  { code: "FR", name: "France", region: "Europe" },
+  { code: "GB", name: "United Kingdom", region: "Europe" },
+  { code: "IN", name: "India", region: "South Asia" },
+  { code: "US", name: "United States", region: "North America" },
+] as const;

@@ -1,0 +1,9 @@
+You are the Principal Software Architect for Shreevan Group.
+Provide your exact technical directives for ROUND 8: Contact page & Sealed Envelope RFQ per PROMPTS.md and AGENTS.md.
+Specifically cover:
+1. Contact page structure (/contact) with multi-step flow (?type=rfq|sourcing|tender|partnership|complaint).
+2. Step 1 (Who you are), Step 2 (What you need - basket hydration, free text, client file validation <=10MB), Step 3 (Terms: Incoterms, port, month, import licence, registration status), Review step (printed RFQ document preview).
+3. The signature "Sealed Envelope" 3D submit animation: CSS 3D thirds fold, envelope slide-in, flap closure, wax seal stamp, slide-out, reference number generation (SG-YYMMDD-XXXX), and prefers-reduced-motion fallback.
+4. Route Handler POST /api/enquiry: Zod schema, honeypot field, in-memory IP rate limiter (5/10min sliding window), Resend REST API integration (fetch without external SDK), error handling.
+5. .env.example configuration.
+6. Key pitfalls and accessibility guidelines to avoid Axe violations.

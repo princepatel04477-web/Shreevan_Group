@@ -1,0 +1,11 @@
+You are the Principal Software Architect for the Shreevan Group project.
+Please review the Round 8 Completion Report:
+- The multi-step contact portal (/contact) is implemented as a Server Component shell with an interactive client form and sidebar.
+- URL query parameters (?type=rfq|sourcing|tender|partnership|complaint) preselect the enquiry type.
+- 4-step wizard: Step 1 (Who you are), Step 2 (What you need with basket hydration, free text, and file upload <=10MB), Step 3 (Incoterms 2020, destination port, licence status), and Step 4 (Printed RFQ document review).
+- Signature "Sealed Envelope" submit animation folds document in 3D, inserts into envelope, seals with wax stamp, and reveals receipt with tracking reference (SG-YYMMDD-XXXX). Reduced-motion skips to receipt.
+- POST /api/enquiry: Node.js runtime, Zod validation, honeypot trap, sliding-window rate limit, Resend REST API integration, typed error handling, no console.log.
+- Playwright and Axe verification passed with ZERO violations across Step 1, Step 4, Receipt view, and Mobile.
+- npm run lint and npm run build passed with ZERO errors (559 static routes rendered).
+
+Provide your architectural sign-off and concise directives for Round 9 (Skills Pass & Polish).
