@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+:root {
+  /* Surface Tokens */
+  --paper: #F7F6F2;
+  --porcelain: #FFFFFF;
+  --mist: #EEF1F0;
+  --rule: #D9DDDA;
+
+  /* Ink Hierarchy */
+  --ink: #0F1B24;
+  --ink-2: #33424D;
+  --ink-3: #5E6B74;
+
+  /* Brand Accents (Extracted from logo, WCAG AAA contrast on paper) */
+  --accent-700: #1B4231;
+  --accent-500: #204D39;
+  --accent-100: #E2ECE7;
+  --accent-gold: #B99A55;
+  --signal: #B4532A;
+  --ink-stamp: #143326;
+
+  /* Transitions.dev Global Variables */
+  --resize-dur: 300ms;
+  --resize-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --digit-dur: 500ms;
+  --digit-distance: 8px;
+  --digit-stagger: 70ms;
+  --digit-blur: 2px;
+  --digit-ease: cubic-bezier(0.34, 1.45, 0.64, 1);
+  --badge-slide-dur: 260ms;
+  --badge-pop-dur: 500ms;
+  --badge-fade-dur: 400ms;
+  --dropdown-open-dur: 250ms;
+  --dropdown-close-dur: 150ms;
+  --dropdown-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --modal-open-dur: 250ms;
+  --modal-close-dur: 150ms;
+  --modal-ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@theme {
+  --color-paper: var(--paper);
+  --color-porcelain: var(--porcelain);
+  --color-mist: var(--mist);
+  --color-rule: var(--rule);
+
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+
+  --color-accent-700: var(--accent-700);
+  --color-accent-500: var(--accent-500);
+  --color-accent-100: var(--accent-100);
+  --color-accent-gold: var(--accent-gold);
+  --color-signal: var(--signal);
+  --color-ink-stamp: var(--ink-stamp);
+
+  --font-display: var(--font-fraunces), Georgia, serif;
+  --font-body: var(--font-instrument), system-ui, sans-serif;
+  --font-mono: var(--font-mono), monospace;
+  --font-devanagari: var(--font-devanagari), sans-serif;
+}
+
+/* Base Body Styles */
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--accent-100);
+  color: var(--accent-700);
+}
+
+/* Paper Grain Texture Overlay (fixed, pointer-events none, 1.5% opacity) */
+.paper-grain {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.015;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Custom Scrollbar for Ruled Editorial Feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--paper);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--rule);
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-3);
+}

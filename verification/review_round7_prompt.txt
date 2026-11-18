@@ -1,0 +1,11 @@
+You are the Principal Software Architect for the Shreevan Group project.
+Please review the Round 7 Completion Report:
+- All 7 content and legal pages (/export-services, /quality, /private-label, /about, /privacy, /terms, /disclaimer) have been built as Server Components with semantic HTML and valid metadata.
+- Single source of truth established in src/content/export.ts with typed readonly data structures.
+- Strict honesty rules upheld: 0 invented registration numbers, 0 invented partner claims, all placeholders removed.
+- Axe core accessibility scans executed via Playwright at both desktop (1440x900) and mobile (390x844) across all 7 routes: ZERO violations found.
+- Banned copy words audit across all 557 built HTML files returned ZERO violations.
+- All key section hash anchors (#freight, #documents, #pharmacovigilance, #anti-counterfeit, #coldchain, #manufacturing) resolve correctly.
+- Both npm run lint and npm run build pass with zero errors.
+
+Please provide your architectural assessment and sign off to proceed to Round 8 (Contact & Sealed Envelope RFQ).

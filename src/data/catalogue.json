@@ -1,0 +1,3308 @@
+[
+ {
+  "id": "sg-001",
+  "generic": "AMLODIPENE + ATENLOL",
+  "dosageForm": "Tablet",
+  "category": "Cardio-Diabetic",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "AMLOCIA-AT TAB."
+ },
+ {
+  "id": "sg-002",
+  "generic": "Azithromycin 250 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "AZIGUD-250 TAB."
+ },
+ {
+  "id": "sg-003",
+  "generic": "Azithromycin 500 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*3",
+   "10*5"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "AZIGUD-500 TAB."
+ },
+ {
+  "id": "sg-004",
+  "generic": "Cefixime 200 mg Dispersible + Lactic Acid Bacillus Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFBEAT-200 LB TAB."
+ },
+ {
+  "id": "sg-005",
+  "generic": "Cefixime 200 mg + Ofloxacin 200 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFBEAT-O TAB."
+ },
+ {
+  "id": "sg-006",
+  "generic": "Cefruxime Axetil 250 Mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFESIS-250 TAB."
+ },
+ {
+  "id": "sg-007",
+  "generic": "Cefruxime Axetil 500 Mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6",
+   "10*1*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFESIS-500 TAB."
+ },
+ {
+  "id": "sg-008",
+  "generic": "Diclofenac Potassium 50 mg + Pcm 325 mg + Serratiopeptidase 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DICLOCIA-SP TAB."
+ },
+ {
+  "id": "sg-009",
+  "generic": "Diclofenac Potassium 50 mg + Pcm 325 mg + Chlorzoxazone 250 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DICLOCIA-MR TAB."
+ },
+ {
+  "id": "sg-010",
+  "generic": "Drotaverine HCL 80 mg + Mefenamic Acid 250 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DROBEAT-MF TAB."
+ },
+ {
+  "id": "sg-011",
+  "generic": "Pancreatin 200 mg+Fungal Diastase 10 mg+Pepsin 5 mg + Activated Charcoal 100 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ENZOCIA TAB."
+ },
+ {
+  "id": "sg-012",
+  "generic": "Esomeprazole 20 mg",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ESOGUD-20 CAP."
+ },
+ {
+  "id": "sg-013",
+  "generic": "Esomeprazole 40 mg + Domperidone 30 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ESOGUD-DSR 40 CAP."
+ },
+ {
+  "id": "sg-014",
+  "generic": "Etoricoxib 90 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ETOCIA-90 TAB."
+ },
+ {
+  "id": "sg-015",
+  "generic": "Etoricoxib 60 mg + Thiocolchicoside 4 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ETOCIA-TH TAB."
+ },
+ {
+  "id": "sg-016",
+  "generic": "PARACETAMOL 500MG + PHENYLEPHRINE 5MG + CAFFEINE 30M + DIPHENHYDRAMINE 25MG",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "EZICOLD-FORTE TAB."
+ },
+ {
+  "id": "sg-017",
+  "generic": "Febuxostat 40 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FBFIZZ-40 TAB."
+ },
+ {
+  "id": "sg-018",
+  "generic": "Ferrous Ascorbate 100 mg + Folic Acid 1.5 mg + Zinc Sulphate 7.5 mg Tab",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEROCIA-XT TAB."
+ },
+ {
+  "id": "sg-019",
+  "generic": "Silymarin 140 mg + L-Ornithine-L-Aspartate 125 mg + B-Complex Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HEPABEAT CAP."
+ },
+ {
+  "id": "sg-020",
+  "generic": "Montelukast Sodium 10 mg + Levocetirizine 5 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HUMACET-M TAB."
+ },
+ {
+  "id": "sg-021",
+  "generic": "Prebiotic & Probiotic Caps. Capsule",
+  "dosageForm": "Capsule",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HYPRO CAP."
+ },
+ {
+  "id": "sg-022",
+  "generic": "Deflazacort 6 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "INCIA-6 TAB."
+ },
+ {
+  "id": "sg-023",
+  "generic": "Itraconazole 100 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Antifungals",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ITRAGUD-100 CAP."
+ },
+ {
+  "id": "sg-024",
+  "generic": "Itraconazole 200 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Antifungals",
+  "packs": [
+   "10*6",
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ITRAGUD-200 CAP."
+ },
+ {
+  "id": "sg-025",
+  "generic": "Aceclofenac 100 mg + Paracetamol 325 mg + Chlorzoxazone 250 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOVIFLO-MR TAB."
+ },
+ {
+  "id": "sg-026",
+  "generic": "Aceclofenac 100 mg + Paracetamol 325 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "20*10",
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOVIFLO-P TAB."
+ },
+ {
+  "id": "sg-027",
+  "generic": "Aceclofenac 100 mg + Thiocolchicoside 4 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOVIFLO-TH4 TAB."
+ },
+ {
+  "id": "sg-028",
+  "generic": "Amoxicillin 500 mg + Clavulanic Acid 125 mg + Lactic Acid Bacillus 60 Million Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOXCIA-CV 625 LB TAB."
+ },
+ {
+  "id": "sg-029",
+  "generic": "Methylcobalamin 1500mcg + Benfothiamine 15mg + Calcium Panthothenate 25mg + Pyridoxine HCL 3mg + Folic Acid 1.5mg + Alpha Lipoic Acid 100mg +Zinc Oxide22.5mg + Chromium Picolinate 65mg + Lutein 5mg",
+  "dosageForm": "Capsule",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NERVIBEAT-OD CAP."
+ },
+ {
+  "id": "sg-030",
+  "generic": "Nimesulide 100 mg + Paracetamol 325 mg Tablet",
+  "dosageForm": "Capsule",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "20*10"
+  ],
+  "flags": [
+   "Nimesulide — withdrawn/never approved in many markets (US, UK, EU states, Canada, Australia); restrict to markets where registered"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NUPAR PLUS TAB."
+ },
+ {
+  "id": "sg-031",
+  "generic": "Ofloxacin 200 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "OFBEAT-200 TAB."
+ },
+ {
+  "id": "sg-032",
+  "generic": "Ofloxacin 200 mg + Ornidazole 500 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "OFBEAT-OZ TAB."
+ },
+ {
+  "id": "sg-033",
+  "generic": "Pantoprazole 40 mg + Domperidone 30 mg Sustained Release Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PAZIGUD-DSR CAP."
+ },
+ {
+  "id": "sg-034",
+  "generic": "Rabeprazole Sodium 20 mg + Domperidone 30 mg Sustained Release Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "RAZIGUD-DSR CAP."
+ },
+ {
+  "id": "sg-035",
+  "generic": "Rabeprazole Sodium 20 mg + Levosulpiride 75 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "RAZIGUD-L CAP."
+ },
+ {
+  "id": "sg-036",
+  "generic": "Cefpodoxime Proxetil 200 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SAFODOX-200 TAB."
+ },
+ {
+  "id": "sg-037",
+  "generic": "Aceclofenac 100 mg + Paracetamol 325 mg + Serratiopeptidase 15 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SEROFIT-SP TAB."
+ },
+ {
+  "id": "sg-038",
+  "generic": "Trypsin 48 mg + Bromelain 90 mg + Rutoside Trihydrate 100 mg + Diclofenac Sodium 50 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "TRIPSOHEAL-D TAB."
+ },
+ {
+  "id": "sg-039",
+  "generic": "Calcitriol 0.25 mcg + Calcium Citrate 425 mg + Zinc 20 mg + Magnesium 40 mg Softgel",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONBEAT-CT SOFTGEL"
+ },
+ {
+  "id": "sg-040",
+  "generic": "Calcitriol 0.25 mcg + Calcium Carbonate 500 mg + Methylcobalamin 1500 mcg +",
+  "dosageForm": "Softgel",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONBEAT-K27 SOFTGEL L-methylfolate 800 mcg + Vit K2-7 45 mcg + Zinc 7.5 mg + Magnesium Softgel"
+ },
+ {
+  "id": "sg-041",
+  "generic": "Lycopene 2000 mcg+ Cynocobalamin 2.5 mcg +Pyridoxine HCL 1.5 mg + Niacinamide 25 mg + Zinc Sulphate 7.5 mg + Manganese 1.5 mg + Beta Carotene 10 mg + Selenium 25 mcg. Softgel (Mono",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LYCOCIA SOFTGEL"
+ },
+ {
+  "id": "sg-042",
+  "generic": "Carton Pack) Ginseng + Multivitamin + Multimineral Softgel",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MV-FIT SOFTGEL"
+ },
+ {
+  "id": "sg-043",
+  "generic": "Diclofenac Sodium 75 mg/1 ml. Injection",
+  "dosageForm": "Injection",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*2 ML",
+   "10*1 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DICLOCIA INJ."
+ },
+ {
+  "id": "sg-044",
+  "generic": "Methylcobalamin 2500 mcg Injection",
+  "dosageForm": "Injection",
+  "category": "Neuro & CNS",
+  "packs": [
+   "DISPO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NERVIBEAT-2500 INJ."
+ },
+ {
+  "id": "sg-045",
+  "generic": "Methylcobalamin 1500 mcg + Pyridoxine 100 mg + Niacinamide 100 mg Inj",
+  "dosageForm": "Injection",
+  "category": "Neuro & CNS",
+  "packs": [
+   "DISPO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NERVIBEAT-FORTE INJ."
+ },
+ {
+  "id": "sg-046",
+  "generic": "Pantoprazole 40 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Gastroenterology",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PAZIGUD-I.V INJ."
+ },
+ {
+  "id": "sg-047",
+  "generic": "Ceftriaxone 1 gm Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SAFODOX-1 GM INJ."
+ },
+ {
+  "id": "sg-048",
+  "generic": "Ceftriaxone 1 gm + Sulbactam 500mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SAFODOX-1.5 GM INJ."
+ },
+ {
+  "id": "sg-049",
+  "generic": "Magaldrate 400 mg + Simethicone 20 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "170 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ACIBEAT SYP."
+ },
+ {
+  "id": "sg-050",
+  "generic": "Calcium Carbonate 375 mg + L-Lysine HCL 20 mg + Vitamin-D3 200 I.U Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONBEAT"
+ },
+ {
+  "id": "sg-051",
+  "generic": "Fungal Diastase 50 mg + Pepsin 10 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML",
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ENZOCIA SYP."
+ },
+ {
+  "id": "sg-052",
+  "generic": "Ferric Ammonium Citrate 200mg + Cynocobalamin 7.5mcg+ Pyridoxine HCL 1.5mg+Folic Acid 0.5mg+Zic Sulphate 7mg",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "300 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEROCIA-PLUS SYP."
+ },
+ {
+  "id": "sg-053",
+  "generic": "Ferrous Ascorbate 30 mg + Folic Acid 500 mcg + Zinc Sulphate 11mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEROCIA-XT SYP."
+ },
+ {
+  "id": "sg-054",
+  "generic": "B-Complex + L-Lysine Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML",
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GROBEAT SYP."
+ },
+ {
+  "id": "sg-055",
+  "generic": "Silymarin 35 mg + L-Ornithine L-Aspartate 125 mg + Vitamin B-Complex Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HEPABEAT-DS SYP."
+ },
+ {
+  "id": "sg-056",
+  "generic": "Ambroxol 15 mg+Guaiphenesin 50 mg+Terbutaline 1.25 mg+Menthol 2.5 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KUFFBEAT-AX SYP."
+ },
+ {
+  "id": "sg-057",
+  "generic": "Dextromethorphan 10 mg + Chlorpheniramine 2 mg + Phenylephrine Hcl 5 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KUFFBEAT-DX SYP."
+ },
+ {
+  "id": "sg-058",
+  "generic": "Ambroxol 30 mg + Guaiphenesin 50 mg + Levosalbutamol 1 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KUFFBEAT-LS SYP."
+ },
+ {
+  "id": "sg-059",
+  "generic": "Lycopene + Multivitamin + Multiminerals + Antioxidant Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML",
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LYCOCIA SYP."
+ },
+ {
+  "id": "sg-060",
+  "generic": "Multivitamin + Multimineral+ Antioxidant Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MV-FIT SYP."
+ },
+ {
+  "id": "sg-061",
+  "generic": "Cyproheptadine Hcl 2 mg + Tricholine Citrate 0.275 gm/5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PEPCYP SYP."
+ },
+ {
+  "id": "sg-062",
+  "generic": "Milk of Magnesia 3.75Ml+Liquid Paraffin 1.25Ml+Sodium Picosulfate 3.33 Mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "100 ML",
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PICOCIA PLUS SYP."
+ },
+ {
+  "id": "sg-063",
+  "generic": "Azithromycin 200 mg /5 Ml Suspension",
+  "dosageForm": "Suspension",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "AZIGUD-200 SYP."
+ },
+ {
+  "id": "sg-064",
+  "generic": "Cefixime 100 mg/5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFBEAT-100 DRY SYP."
+ },
+ {
+  "id": "sg-065",
+  "generic": "Cefixime 50 mg/5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFBEAT-50 DRY SYP"
+ },
+ {
+  "id": "sg-066",
+  "generic": "Cefixime 50 mg + Ofloxacin 50 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFBEAT-O DRY SYP"
+ },
+ {
+  "id": "sg-067",
+  "generic": "Cefruxime 125 mg/5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFESIS DRY SYP"
+ },
+ {
+  "id": "sg-068",
+  "generic": "Mefenamic Acid 100 mg + Paracetamol 250 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DROBEAT-MF PLUS"
+ },
+ {
+  "id": "sg-069",
+  "generic": "Alpha-Amylase 30 mg + Papain 20 mg + Anise Oil 1.25 mg + Caraway Oil 1.25 mg + Dill Oil 1 mg Drops",
+  "dosageForm": "Drops",
+  "category": "Gastroenterology",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ENZOCIA DROP"
+ },
+ {
+  "id": "sg-070",
+  "generic": "Paracetamol 250 mg + Phenylephrine HCL 5 mg + CPM 1 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "EZICOLD-DS SYP."
+ },
+ {
+  "id": "sg-071",
+  "generic": "Montelukast Sodium 4 mg + Levocetirizine 2.5 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HUMACET-M SYP."
+ },
+ {
+  "id": "sg-072",
+  "generic": "Aceclofenac 50 mg + Paracetamol 125 mg/5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOVIFLO-P SYP"
+ },
+ {
+  "id": "sg-073",
+  "generic": "Amoxycillin 200 mg + Clavulanic Acid 28.5 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOXCIA-CV DRY SYP."
+ },
+ {
+  "id": "sg-074",
+  "generic": "Amoxycillin 400 mg + Clavulanic Acid 57 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOXCIA-CV PLUS DRY"
+ },
+ {
+  "id": "sg-075",
+  "generic": "Ofloxacin 50 mg + Metronidazole 120 mg + Simethicone 10 mg/5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SYP OFBEAT-MS SYP."
+ },
+ {
+  "id": "sg-076",
+  "generic": "Cefpodoxime Proxetil 50 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SAFODOX-50 DRY SYP."
+ },
+ {
+  "id": "sg-077",
+  "generic": "Herbal Liver + Alkalizer + Enzyme + Antacid Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "225 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HYLIV-4G SYP."
+ },
+ {
+  "id": "sg-078",
+  "generic": "Herbal Liver Tonic Syrup (Double Strength)",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HYLIV-DS SYP."
+ },
+ {
+  "id": "sg-079",
+  "generic": "Herbal Liver Tonic Syrup (Triple Strength)",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "300 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HYLIV-TS SYP."
+ },
+ {
+  "id": "sg-080",
+  "generic": "Carica Papaya Syp",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CARIBEAT SYP."
+ },
+ {
+  "id": "sg-081",
+  "generic": "Diclofenac Diethylamine 1.16% w/w + Methyl Salicylate 10.00% w/w + Menthol 5% w/w + Virgin Linseed Oil 3% w/w + Benzyl Alcohol 1% w/w Gel",
+  "dosageForm": "Gel",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "30 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DICLOCIA GEL"
+ },
+ {
+  "id": "sg-082",
+  "generic": "Cholecalciferol 60,000 I.U Sachet",
+  "dosageForm": "Sachet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "20*1 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONBEAT-D3 SACHET"
+ },
+ {
+  "id": "sg-083",
+  "generic": "Ofloxacin 0.75% w/w + Tinidazole 2.00% w/w + Tebinafine 1.00% w/w + Clobetasole Propionate 0.05% w/w + Dexpanthenol 0.05% w/w Cream",
+  "dosageForm": "Cream",
+  "category": "Anti-infectives",
+  "packs": [
+   "15 GM"
+  ],
+  "flags": [
+   "Steroid + antibiotic + antifungal FDC — irrational-FDC scrutiny; do not showcase"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FUNGIBEN CREAM"
+ },
+ {
+  "id": "sg-084",
+  "generic": "Luliconazole 1% w/w LOTION",
+  "dosageForm": "Lotion",
+  "category": "Antifungals",
+  "packs": [
+   "15 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FUNGIBEN-L Lotion"
+ },
+ {
+  "id": "sg-085",
+  "generic": "Dextrose 17.50 gm + Sucrose 14 gm + Zinc Sulphate 32.5 mg + Vitamin C 50 mg (Glucose Powder Energy Drink)",
+  "dosageForm": "Powder",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "105 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HIFIZZ ENERGY DRINK"
+ },
+ {
+  "id": "sg-086",
+  "generic": "Herbal Onioin Oil",
+  "dosageForm": "Oil",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HUMENCIA ONION OIL"
+ },
+ {
+  "id": "sg-087",
+  "generic": "Herbal Onioin Shampoo",
+  "dosageForm": "Shampoo",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "HUMENCIA ONION"
+ },
+ {
+  "id": "sg-088",
+  "generic": "Hydroquinone 2% w/w + Tretinoin 0.025 % w/w + Mometasone 0.1% w/w Cream",
+  "dosageForm": "Cream",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "15 GM"
+  ],
+  "flags": [
+   "Triple-combination skin-lightening cream — restricted/prescription-only in many markets"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SHAMPOO HUMENCIA-HD CREAM"
+ },
+ {
+  "id": "sg-089",
+  "generic": "Calcium Carbonate 1250 mg (eq to Elemental Calcium 500 mg) + Vitamin D3 250 I.U Tablet",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*15"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-C"
+ },
+ {
+  "id": "sg-090",
+  "generic": "Calcium Citrate 1000 mg + Magnesium 100 mg + Zinc 4 mg + Vitamin D3 200 I.U Tablet",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*15"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-CCM"
+ },
+ {
+  "id": "sg-091",
+  "generic": "Cholecalciferol (Vitamin-D3) 60,000 I.U (Nano Droplet Form Oral Solution)",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "4*5ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-D3"
+ },
+ {
+  "id": "sg-092",
+  "generic": "Cefpodoxime Proxetil 100 mg Dispersible Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "Nano Shots BRAVOPOD-100"
+ },
+ {
+  "id": "sg-093",
+  "generic": "Cefpodoxime Proxetil 200 mg + Clavulanic Acid 125 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BRAVOPOD-CV"
+ },
+ {
+  "id": "sg-094",
+  "generic": "Aceclofenac 200 mg Sustained Released Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CAREGESIC-200 SR"
+ },
+ {
+  "id": "sg-095",
+  "generic": "Paracetamol 650 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CAREGSIC-650"
+ },
+ {
+  "id": "sg-096",
+  "generic": "Cefixime 100 mg Dispersible Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFLAZ-100"
+ },
+ {
+  "id": "sg-097",
+  "generic": "Cefixime 200 mg Dispersible Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFLAZ-200"
+ },
+ {
+  "id": "sg-098",
+  "generic": "Cefixime 200 mg + Azithromycin 250 mg + Lactic Acid Bacillus Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFLAZ-AZ"
+ },
+ {
+  "id": "sg-099",
+  "generic": "Doxycycline HCL 100 mg + Lactic Acid Bacillus 5 Billion Spores Capsule",
+  "dosageForm": "Capsule",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DOXILAZ-LB"
+ },
+ {
+  "id": "sg-100",
+  "generic": "Drotaverine HCL 80 mg + Aceclofenac 100 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DROTONE-AC"
+ },
+ {
+  "id": "sg-101",
+  "generic": "Ondansetron 4 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "EMILAZ-4"
+ },
+ {
+  "id": "sg-102",
+  "generic": "Fexofenadine 120 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEXOLAZ-120"
+ },
+ {
+  "id": "sg-103",
+  "generic": "Fexofenadine 180 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEXOLAZ-180"
+ },
+ {
+  "id": "sg-104",
+  "generic": "Fexofenadine 120 mg + Montelukast Sodium 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEXOLAZ-M"
+ },
+ {
+  "id": "sg-105",
+  "generic": "Fluconazole 150 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Antifungals",
+  "packs": [
+   "20*1*1"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLUCOLAZ-150"
+ },
+ {
+  "id": "sg-106",
+  "generic": "Fluconazole 300 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Antifungals",
+  "packs": [
+   "10*1*5"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLUCOLAZ-300"
+ },
+ {
+  "id": "sg-107",
+  "generic": "Gabapentin 300 mg + Methylcobalamin 500 mcg",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-G"
+ },
+ {
+  "id": "sg-108",
+  "generic": "Pregabalin 75 mg + Nortriptyline 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [
+   "Pregabalin — controlled substance in UK and several markets; enquiry-only, documentation required"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-NT"
+ },
+ {
+  "id": "sg-109",
+  "generic": "Pregabalin 75 mg + Methylcobalamin 1500mcg + Nortriptyline 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [
+   "Pregabalin — controlled substance in UK and several markets; enquiry-only, documentation required"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-MNT"
+ },
+ {
+  "id": "sg-110",
+  "generic": "Cynocobalamin 1mcg + Alpha Lipoic Acid 100mg + Calcium Panthothenate 25mg + Pyridoxine HCL 3mg + Folic Acid 1.5mg +Zinc Oxide22.5mg + Chromium Picolinate 65mg + Lutein 5mg Capsule (Alu-",
+  "dosageForm": "Capsule",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-OD"
+ },
+ {
+  "id": "sg-111",
+  "generic": "Alu) Lycopene 2000 mcg+Vita 2500 I.U+Vit C 50mg+Selenium 70 mcg+Vit E 10 Iu Capsule",
+  "dosageForm": "Capsule",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYPIN-LY"
+ },
+ {
+  "id": "sg-112",
+  "generic": "Multivitamin + Chromium + Zinc + Selenium Tablet",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOLD RICH"
+ },
+ {
+  "id": "sg-113",
+  "generic": "Antioxidant with Multivitamin & Multimineral Capsule",
+  "dosageForm": "Capsule",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GROVIT"
+ },
+ {
+  "id": "sg-114",
+  "generic": "Ibuprofen 400 mg + Paracetamol 325 mg",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "IBULAZ-P"
+ },
+ {
+  "id": "sg-115",
+  "generic": "Isoxsuprine 40 mg Sustained Release Tablet",
+  "dosageForm": "Tablet",
+  "category": "Women's Health",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ISOLAZ-40"
+ },
+ {
+  "id": "sg-116",
+  "generic": "Ketorolac Tromethamine Dispersible Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*15"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KETROLAZ-DT"
+ },
+ {
+  "id": "sg-117",
+  "generic": "Betahistine Dihydrochloride 16 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KLOHIST-16"
+ },
+ {
+  "id": "sg-118",
+  "generic": "Natural Micronised Progesterone 200 mg Sustained Release Tablet",
+  "dosageForm": "Tablet",
+  "category": "Women's Health",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLGEST-200 SR"
+ },
+ {
+  "id": "sg-119",
+  "generic": "Hydroxyzine HCL 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLTRAX-10"
+ },
+ {
+  "id": "sg-120",
+  "generic": "Hydroxyzine HCL 25 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLTRAX-25"
+ },
+ {
+  "id": "sg-121",
+  "generic": "Co-Enzyme Q10 100 mg+L-Carnitine Tartrate 350 mg+L-Arginine 100 mg+Astaxanthin 8 mg+Piperine 8 mg+Folic Acid 1.5 mg+Pyridoxine HCL 3 mg +Sodium 100 mcg + Zinc Sulphate 22.5 mg +",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLPIN-Q10"
+ },
+ {
+  "id": "sg-122",
+  "generic": "Tocopheryl Acetate 20 IU Omeprazole 20 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*15"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOME-20"
+ },
+ {
+  "id": "sg-123",
+  "generic": "Omeprazole 20 mg + Domperidone 10 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10",
+   "10*15"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOME-D"
+ },
+ {
+  "id": "sg-124",
+  "generic": "Nimesulide 100 mg Mouth Dissolving Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [
+   "Nimesulide — withdrawn/never approved in many markets (US, UK, EU states, Canada, Australia); restrict to markets where registered"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KONIM-MD"
+ },
+ {
+  "id": "sg-125",
+  "generic": "Nimesulide 100 mg + Paracetamol 325 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "20*10"
+  ],
+  "flags": [
+   "Nimesulide — withdrawn/never approved in many markets (US, UK, EU states, Canada, Australia); restrict to markets where registered"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KONIM-P"
+ },
+ {
+  "id": "sg-126",
+  "generic": "Linezolid 600 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LINZOSET-600"
+ },
+ {
+  "id": "sg-127",
+  "generic": "Levofloxacin 500 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LIVOFINE"
+ },
+ {
+  "id": "sg-128",
+  "generic": "Amoxycillin Trihydrate 500 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-500"
+ },
+ {
+  "id": "sg-129",
+  "generic": "Amoxycillin Trihydrate 500 mg + Lactic Acid Bacillus Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-500 LB"
+ },
+ {
+  "id": "sg-130",
+  "generic": "Amoxycillin Trihydrate 500 mg + Cloxacillin 250 mg + Lactic Acid Bacillus Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-CX LB"
+ },
+ {
+  "id": "sg-131",
+  "generic": "Amoxicillin 250 mg + Clavulanic Acid 125 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-CV 375"
+ },
+ {
+  "id": "sg-132",
+  "generic": "Amoxicillin 500 mg + Clavulanic Acid 125 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "10*1*10",
+   "10*6"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-CV 625"
+ },
+ {
+  "id": "sg-133",
+  "generic": "Glimepiride 1Mg + Metformin HCL 500 Mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Cardio-Diabetic",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "METMET-G1"
+ },
+ {
+  "id": "sg-134",
+  "generic": "Glimepiride 2 Mg + Metformin HCL 500 Mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Cardio-Diabetic",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "METMET-G2"
+ },
+ {
+  "id": "sg-135",
+  "generic": "Doxylamine Succinate 10mg + Pyridoxine HCl 10mg + Folic Acid 2.5mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOMFRESH"
+ },
+ {
+  "id": "sg-136",
+  "generic": "Doxylamine Succinate 20mg + Pyridoxine HCl 20mg + Folic Acid 5mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOMFRESH-DS"
+ },
+ {
+  "id": "sg-137",
+  "generic": "L-Methylfolate 1 mg + Pyridoxal 5-Phosphate 0.5 mg + Methylcobalamin 1500 mcg. + DHA 200 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOMFRESH-L"
+ },
+ {
+  "id": "sg-138",
+  "generic": "Naproxen 500 mg + Domperidom 10 mg Tablet Strip Pack",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NAPROLAZ-D"
+ },
+ {
+  "id": "sg-139",
+  "generic": "Pantoprazole 40 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PANKOL-40"
+ },
+ {
+  "id": "sg-140",
+  "generic": "Pantoprazole 40 mg + Domperidone 10 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PANKOL-D"
+ },
+ {
+  "id": "sg-141",
+  "generic": "Pantaprazole 40mg + Ondanstrone 4 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PANKOL-O"
+ },
+ {
+  "id": "sg-142",
+  "generic": "Pantaprazole 40mg + Itopride 150 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PANKOL-IT"
+ },
+ {
+  "id": "sg-143",
+  "generic": "Pantaprazole 40mg + Levoserpride 150 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PANKOL-LSR"
+ },
+ {
+  "id": "sg-144",
+  "generic": "Methylprednisolone 4mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PRADA-4"
+ },
+ {
+  "id": "sg-145",
+  "generic": "Methylprednisolone 8mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PRADA-8"
+ },
+ {
+  "id": "sg-146",
+  "generic": "Prebiotic & Probiotic + L-Glutathione 50 mg Caps. Capsule",
+  "dosageForm": "Capsule",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PROTIC"
+ },
+ {
+  "id": "sg-147",
+  "generic": "Piroxicam 20 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PYRIKOL-20"
+ },
+ {
+  "id": "sg-148",
+  "generic": "Rabeprazole 20 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "RAPIDO-20"
+ },
+ {
+  "id": "sg-149",
+  "generic": "Rabeprazole 20 mg+ Itopride 150 mg Capsule",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "RAPIDO-IT"
+ },
+ {
+  "id": "sg-150",
+  "generic": "Trypsin 48 mg + Bromelain 90 mg + Rutoside Trihydrate 100 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SERACART"
+ },
+ {
+  "id": "sg-151",
+  "generic": "Etoricoxib 60 mg + Paracetamol 325 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "TORAID-P"
+ },
+ {
+  "id": "sg-152",
+  "generic": "Ursodeoxycholic Acid 300 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "UDLAZ-300"
+ },
+ {
+  "id": "sg-153",
+  "generic": "Levocetirizine 5 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "25*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST"
+ },
+ {
+  "id": "sg-154",
+  "generic": "Nimesulide 100 mg + Cetrizine 5 mg + Phenylephrine HCL 10 mg + Caffeine 30 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [
+   "Nimesulide — withdrawn/never approved in many markets (US, UK, EU states, Canada, Australia); restrict to markets where registered"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-NP"
+ },
+ {
+  "id": "sg-155",
+  "generic": "Paracetamol 325 mg + Phenylephrine HCL 5 mg + Cetirizine 5 mg + Caffeine 25 mg Tablet",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-P"
+ },
+ {
+  "id": "sg-156",
+  "generic": "Green Tea Extract+Grape Seed Extract+Ginkgo Biloba+GarlicPowder+Guggul Ginger Root Extract+Green CoffeBean Extract+Glycyrrhiza Globra Extract+Lycopene+Omega-3 Fatty Acids + Essental Amino Acids + Methylcobalamin + Vitamins + Minerals + L-Carnitine + L-Tartrate & Trace",
+  "dosageForm": "Powder",
+  "category": "Neuro & CNS",
+  "packs": [
+   "3*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "9G-GOLD"
+ },
+ {
+  "id": "sg-157",
+  "generic": "Elements Softgel Cholecalciferol 60000 I.U Softgel",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*1*4"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-60K"
+ },
+ {
+  "id": "sg-158",
+  "generic": "Calcitriol 0.25 mcg + Calcium Carbonate 500 mg + Methylcobalamin 1500 mcg + L-methylfolate 800 mcg + Vit K2-7 45 mcg + Zinc 7.5 mg + Magnesium Softgel",
+  "dosageForm": "Softgel",
+  "category": "Neuro & CNS",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-K2-7"
+ },
+ {
+  "id": "sg-159",
+  "generic": "Lycopene 2000 mcg+ Cynocobalamin 2.5 mcg +Pyridoxine HCL 1.5 mg + Niacinamide 25 mg + Zinc Sulphate 7.5 mg + Manganese 1.5 mg + Beta Carotene 10 mg + Selenium 25 mcg. Softgel",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYPIN-FORTE"
+ },
+ {
+  "id": "sg-160",
+  "generic": "Ginseng + Multivitamin + Multimineral Softgel",
+  "dosageForm": "Softgel",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOLD-AGE"
+ },
+ {
+  "id": "sg-161",
+  "generic": "Ferric Hydroxide Complex With Sucrose 20 mg/ML (Iron Sucrose 100 mg) Injection",
+  "dosageForm": "Injection",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "5 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CARBIUM-5"
+ },
+ {
+  "id": "sg-162",
+  "generic": "Paracetamol Infusion 1.0% w/v (Infusion)",
+  "dosageForm": "Tablet",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CAREGESIC-I.V"
+ },
+ {
+  "id": "sg-163",
+  "generic": "Nandrolone Decanoate 25 mg Injection",
+  "dosageForm": "Injection",
+  "category": "General Medicine",
+  "packs": [
+   "DISPO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DRODEC-25"
+ },
+ {
+  "id": "sg-164",
+  "generic": "Nandrolone Decanoate 50 mg Injection",
+  "dosageForm": "Injection",
+  "category": "General Medicine",
+  "packs": [
+   "DISPO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DRODEC-50"
+ },
+ {
+  "id": "sg-165",
+  "generic": "Methylcobalamin 1500 mcg (5*2 ml)",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "5*2 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-1500"
+ },
+ {
+  "id": "sg-166",
+  "generic": "Methylcobalamin 2500 mcg (5*2 ml)",
+  "dosageForm": "Tablet",
+  "category": "Neuro & CNS",
+  "packs": [
+   "5*2 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLYCOB-2500"
+ },
+ {
+  "id": "sg-167",
+  "generic": "Hydroxyprogesterone Caproate 500 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Women's Health",
+  "packs": [
+   "DISPO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLGEST-500"
+ },
+ {
+  "id": "sg-168",
+  "generic": "Amikcin 500 mg Injection",
+  "dosageForm": "Injection",
+  "category": "General Medicine",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLMIK-500"
+ },
+ {
+  "id": "sg-169",
+  "generic": "Ceftriaxone 250 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-250"
+ },
+ {
+  "id": "sg-170",
+  "generic": "Ceftriaxone 500 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-500"
+ },
+ {
+  "id": "sg-171",
+  "generic": "Ceftriaxone 250 mg + Sulbactam 125 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-S 375"
+ },
+ {
+  "id": "sg-172",
+  "generic": "Ceftriaxone 500 mg + Sulbactam 250 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-S 750"
+ },
+ {
+  "id": "sg-173",
+  "generic": "Ceftriaxone 1 gm + Tazobactam 125 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-T 1.125"
+ },
+ {
+  "id": "sg-174",
+  "generic": "Ceftriaxone 250 mg + Tazobactam 31.5 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAZIC-T 281.25"
+ },
+ {
+  "id": "sg-175",
+  "generic": "Meropenem 1 gm + Sulbactam 500 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "Tray"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MEROLAZ-S 1.5"
+ },
+ {
+  "id": "sg-176",
+  "generic": "Piroxicam 20 mg/ 1ml (40 mg ) Injection",
+  "dosageForm": "Injection",
+  "category": "General Medicine",
+  "packs": [
+   "10*2 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PYRIKOL"
+ },
+ {
+  "id": "sg-177",
+  "generic": "Piperacillin 4 gm + Tazobactam 0.5 gm Injection (Tray Pack)",
+  "dosageForm": "Injection",
+  "category": "General Medicine",
+  "packs": [
+   "Tray"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PIPLAZ-4.5"
+ },
+ {
+  "id": "sg-178",
+  "generic": "Cefoperazone 1 gm + Sulbactam 500 mg Injection",
+  "dosageForm": "Injection",
+  "category": "Anti-infectives",
+  "packs": [
+   "MONO"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SEFPAR-S 1.5 GM"
+ },
+ {
+  "id": "sg-179",
+  "generic": "Oxetacaine 10 mg + Dried Aluminium Hydroxide 291 mg + Dried Magnesium Hydoxide 98 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "General Medicine",
+  "packs": [
+   "170 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ACIKOL-O"
+ },
+ {
+  "id": "sg-180",
+  "generic": "Sucralfate 1 gm + Oxetacaine 20 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "General Medicine",
+  "packs": [
+   "100 ML",
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ACIKOL-OX"
+ },
+ {
+  "id": "sg-181",
+  "generic": "Ferrous Fumarate 100 mg + Folic Acid 550 mcg + Zinc Sulphate 11mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CARBIUM-XT"
+ },
+ {
+  "id": "sg-182",
+  "generic": "Ferric Ammonium Citrate 160 mg+Folic Acid 1mg+Vitamin B12 20 mg+Biotin 30 mcg",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "300 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FEROLAZ"
+ },
+ {
+  "id": "sg-183",
+  "generic": "B-Complex + L-Lysine 375 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GROVIT"
+ },
+ {
+  "id": "sg-184",
+  "generic": "Disodium Hydrogen Citrate 1.38 gm Syrup",
+  "dosageForm": "Syrup",
+  "category": "General Medicine",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLIZER"
+ },
+ {
+  "id": "sg-185",
+  "generic": "Lactulose 10 gm/15 ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "General Medicine",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LACTOLAZ"
+ },
+ {
+  "id": "sg-186",
+  "generic": "Silymarin 35 mg + Vitamin B-Complex Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LIVOLAZ"
+ },
+ {
+  "id": "sg-187",
+  "generic": "Terbutaline 1.25 mg+Bromhexine 4 mg+Guaiphenesin 50 mg+Menthol 1 mg Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-BR"
+ },
+ {
+  "id": "sg-188",
+  "generic": "Cefpodoxim Proxetil 25 mg /1 Ml Drop",
+  "dosageForm": "Drops",
+  "category": "Anti-infectives",
+  "packs": [
+   "10 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BRAVOPOD-25"
+ },
+ {
+  "id": "sg-189",
+  "generic": "Cefpodoxime Proxetil 100 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BRAVOPOD-100"
+ },
+ {
+  "id": "sg-190",
+  "generic": "Cefpodoxime Proxetil 50 mg + Clavulanic Acid 31.25 mg/5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BRAVOPOD-CV"
+ },
+ {
+  "id": "sg-191",
+  "generic": "Paracetamol 250 mg/5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CAREGESIC-250"
+ },
+ {
+  "id": "sg-192",
+  "generic": "Cefixime 25 mg/1 Ml Drop With Dropper",
+  "dosageForm": "Drops",
+  "category": "Anti-infectives",
+  "packs": [
+   "10 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CEFLAZ-25"
+ },
+ {
+  "id": "sg-193",
+  "generic": "Multivitamin + Multimineral+ Antioxidant Drops",
+  "dosageForm": "Drops",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOLD-AGE DROP"
+ },
+ {
+  "id": "sg-194",
+  "generic": "Ibuprofen 100mg + Paracetamol 162.5mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "IBULAZ-P"
+ },
+ {
+  "id": "sg-195",
+  "generic": "Levofloxacin 125 mg + Ornidazole 125 mg",
+  "dosageForm": "Tablet",
+  "category": "Anti-infectives",
+  "packs": [
+   "30 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LIVOFINE-OZ"
+ },
+ {
+  "id": "sg-196",
+  "generic": "Amoxycillin 80 mg + Clavulanate Acid 11.40 mg /5 Ml Drop",
+  "dosageForm": "Drops",
+  "category": "Anti-infectives",
+  "packs": [
+   "10 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MAXILAZ-CV Drop"
+ },
+ {
+  "id": "sg-197",
+  "generic": "Mefenamic Acid 50 mg + Paracetamol 125 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MEFLAZ-P"
+ },
+ {
+  "id": "sg-198",
+  "generic": "Cefuroxime Axetil 125 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NIVIX"
+ },
+ {
+  "id": "sg-199",
+  "generic": "Cefuroxime Axetil 125 mg + Calvulanate 31.25 mg /5 Ml Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Anti-infectives",
+  "packs": [
+   "30ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "NIVIX-CV"
+ },
+ {
+  "id": "sg-200",
+  "generic": "Blacillus Clausii 2 Billion Spores Suspension (Probiotic)",
+  "dosageForm": "Suspension",
+  "category": "General Medicine",
+  "packs": [
+   "5 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PROTIC-OS"
+ },
+ {
+  "id": "sg-201",
+  "generic": "Prebiotic & Probiotic With Zinc Dry Syrup",
+  "dosageForm": "Dry Syrup",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PRETOS-Z"
+ },
+ {
+  "id": "sg-202",
+  "generic": "Ambroxol HCL 7.5 mg + Levosalbutamol 0.25 mg + Guaiphenesin 12.5 mg Drops",
+  "dosageForm": "Drops",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "15 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-LS"
+ },
+ {
+  "id": "sg-203",
+  "generic": "Terbutaline 1.25 mg + Bromhexine 4 mg + Guaiphenesin 50 mg + Menthol 2.5 mg Syrup",
+  "dosageForm": "Drops",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DROP VENTOREST-BR"
+ },
+ {
+  "id": "sg-204",
+  "generic": "Ambroxol HCL 7.5 mg + Levosalbutamol 0.25 mg + Guaiphenesin 50 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "JUNIOR VENTOREST-LS"
+ },
+ {
+  "id": "sg-205",
+  "generic": "Dextromethorphan 5 mg + Chlorpheniramine Maleate 1 mg + Phenylephrine HCL 2.5 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Respiratory & Allergy",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "JUNIOR VENTOREST-CS"
+ },
+ {
+  "id": "sg-206",
+  "generic": "Paracetamol 250 mg + Phenylephrine HCL 5 mg + CPM 2 mg /5 Ml Syrup",
+  "dosageForm": "Syrup",
+  "category": "Pain, Inflammation & Musculoskeletal",
+  "packs": [
+   "60ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-P"
+ },
+ {
+  "id": "sg-207",
+  "generic": "Herbal Pain Relief Oil Flip Off Packing",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CAREGESIC OIL"
+ },
+ {
+  "id": "sg-208",
+  "generic": "Herbal Pain Relief Oil Roll ON Packing",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "FLIP OFF CAREGESIC OIL"
+ },
+ {
+  "id": "sg-209",
+  "generic": "Carica Papaya Leaf Extract 500 mg + Giloy 500 mg + Tulsi 200 mg",
+  "dosageForm": "Tablet",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "10*1*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ROLL ON CARILAZ TAB."
+ },
+ {
+  "id": "sg-210",
+  "generic": "Carica Papaya Leaf Extract 500 mg + Giloy 500 mg + Tulsi 250 mg + Kasis 30 mg + Kiwi 25 mg",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "CARILAZ SYP."
+ },
+ {
+  "id": "sg-211",
+  "generic": "Herbal Uterine Tonic Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "EVASET"
+ },
+ {
+  "id": "sg-212",
+  "generic": "Herbal Liver Protection Capsules",
+  "dosageForm": "Capsule",
+  "category": "Gastroenterology",
+  "packs": [
+   "10*10"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOODLIV CAP."
+ },
+ {
+  "id": "sg-213",
+  "generic": "Herbal Liver Tonic Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOODLIV SYP."
+ },
+ {
+  "id": "sg-214",
+  "generic": "Herbal Liver Tonic With Benefits Of Enzymes Syrup",
+  "dosageForm": "Syrup",
+  "category": "Gastroenterology",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "GOODLIV-PLUS"
+ },
+ {
+  "id": "sg-215",
+  "generic": "Kidney Stone Removal Syrup 200 ml & 30 Capsules",
+  "dosageForm": "Syrup",
+  "category": "General Medicine",
+  "packs": [
+   "Combo"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLSTONE"
+ },
+ {
+  "id": "sg-216",
+  "generic": "Cissus Quadrangularis Extract 750 mg + Withania Somnifera Extract 100 mg",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "COMBO OSTHEOMOVE"
+ },
+ {
+  "id": "sg-217",
+  "generic": "Herbal Cough Syp. (With Honey, Tulsi & Vsaka) Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "VENTOREST-H"
+ },
+ {
+  "id": "sg-218",
+  "generic": "L-Arginine 3 gm + Proanthocyanidin 75 mg Sachet",
+  "dosageForm": "Sachet",
+  "category": "General Medicine",
+  "packs": [
+   "20*5 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "ARGILAZ Sachet"
+ },
+ {
+  "id": "sg-219",
+  "generic": "Sachet Cholecalciferol 60,000 I.U Sachet",
+  "dosageForm": "Sachet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "20*1 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "BONUM-D3"
+ },
+ {
+  "id": "sg-220",
+  "generic": "Protein + Multivitamins + Multiminerals + DHA (Protein Powder With DHA)",
+  "dosageForm": "Powder",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PROLARZ-DHA"
+ },
+ {
+  "id": "sg-221",
+  "generic": "Sodium Chloride 2.6 gm+Potassium Chloride 1.5 gm+Sodium Citrate 2.9 gm+Dextrose 13.50 gm+ Zinc Sulphate 15mg+Vitamin C 40 mg (Glucose Liquid Energy Drink)",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "200 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "RECARE ORS"
+ },
+ {
+  "id": "sg-222",
+  "generic": "Clobetasol Propionate 0.05% w/w + Neomycin Sulphate 0.50% w/w + Miconaazole Nitrate 2.00% w/w Cream",
+  "dosageForm": "Cream",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "15 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LIQUID KOL-NM"
+ },
+ {
+  "id": "sg-223",
+  "generic": "Luliconazole 1% w/w Cream",
+  "dosageForm": "Cream",
+  "category": "Antifungals",
+  "packs": [
+   "10 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LUNIPOD"
+ },
+ {
+  "id": "sg-224",
+  "generic": "Itraconazole 1% w/w + Ofloxacin 0.75% w/w + Ornidazole 2.00% w/w + Clobetasole Propionate 0.05% w/w Cream",
+  "dosageForm": "Cream",
+  "category": "Anti-infectives",
+  "packs": [
+   "15 GM"
+  ],
+  "flags": [
+   "Steroid + antibiotic + antifungal FDC — irrational-FDC scrutiny; do not showcase"
+  ],
+  "segment": "Allopathic",
+  "sourceBrandRef": "OLAZ-ITZ"
+ },
+ {
+  "id": "sg-225",
+  "generic": "Povidone Iodine 50 mg + Metronidazole 10 mg + Sucralfate 70 mg Ointment",
+  "dosageForm": "Ointment",
+  "category": "Anti-infectives",
+  "packs": [
+   "15 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SOBACT"
+ },
+ {
+  "id": "sg-226",
+  "generic": "Ketoconazole 2% w/v + ZPTO Shampoo",
+  "dosageForm": "Shampoo",
+  "category": "Antifungals",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KETOLAZ"
+ },
+ {
+  "id": "sg-227",
+  "generic": "Ketoconazole 2% w/w Soap",
+  "dosageForm": "Soap",
+  "category": "Antifungals",
+  "packs": [
+   "75 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SHAMPOO KETOLAZ SOAP"
+ },
+ {
+  "id": "sg-228",
+  "generic": "Aloevera With Vtamin E Soap",
+  "dosageForm": "Soap",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "75 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLDEW SOAP"
+ },
+ {
+  "id": "sg-229",
+  "generic": "Premethrin 5% w/v Lotion",
+  "dosageForm": "Lotion",
+  "category": "General Medicine",
+  "packs": [
+   "60 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SCABOLAZ"
+ },
+ {
+  "id": "sg-230",
+  "generic": "Premethrin 1.0% w/w Soap",
+  "dosageForm": "Lotion",
+  "category": "Dermatology & Personal Care",
+  "packs": [
+   "75 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "LOTION SCABOLAZ SOAP"
+ },
+ {
+  "id": "sg-231",
+  "generic": "Clotrimazolezole 1.00 % w/w Dusting Powder",
+  "dosageForm": "Dusting Powder",
+  "category": "Antifungals",
+  "packs": [
+   "100 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOLAZ D/P"
+ },
+ {
+  "id": "sg-232",
+  "generic": "Potassium Nitrate 5.0% w/w + Sodium Monoflurophosphate 0.70% w/w + Triclosan 0.3% w/w (Dental Paste In Gel Foam)",
+  "dosageForm": "Gel",
+  "category": "General Medicine",
+  "packs": [
+   "50 GM"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DENTUM GEL"
+ },
+ {
+  "id": "sg-233",
+  "generic": "Tannic Acid 20% w/v + Potassium Iodide 0.05% w/v + Menthol 0.05% w/v + Thymol 0.033% w/v + Glycerine 79% w/v (Gum Paint)",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "15 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "DENTUM GUM"
+ },
+ {
+  "id": "sg-234",
+  "generic": "Chlorhexidene Gluconate 0.2% w/v + Sodium Fluoride 0.05% w/v + Zinc Chloride 0.09% (Mouth Wash)",
+  "dosageForm": "Tablet",
+  "category": "Nutraceuticals & Vitamins",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "PAINT MOREFRESH M/W"
+ },
+ {
+  "id": "sg-235",
+  "generic": "Povidone-Iodine 2% w/v",
+  "dosageForm": "Tablet",
+  "category": "General Medicine",
+  "packs": [
+   "100 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "SOBACT GARGLE"
+ },
+ {
+  "id": "sg-236",
+  "generic": "Carboxymethyl Cellulose 0.0075% w/v Eye Drop",
+  "dosageForm": "Drops",
+  "category": "General Medicine",
+  "packs": [
+   "10 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MORFRESH"
+ },
+ {
+  "id": "sg-237",
+  "generic": "Moxifloxacin 0.5% w/v Eye Drop",
+  "dosageForm": "Drops",
+  "category": "General Medicine",
+  "packs": [
+   "5 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "MOXILAZ"
+ },
+ {
+  "id": "sg-238",
+  "generic": "Gentamicin Sulphate 0.3% w/v + Dipropionate 0.025 w/v + Clotrimazole 1% w/v + Lignocaine HCL 2% w/v Ear Drop",
+  "dosageForm": "Drops",
+  "category": "Antifungals",
+  "packs": [
+   "5 ML"
+  ],
+  "flags": [],
+  "segment": "Allopathic",
+  "sourceBrandRef": "KOL-GM"
+ },
+ {
+  "id": "sg-239",
+  "generic": "Pain Relief Oil (Ayurvedic topical analgesic)",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-240",
+  "generic": "Roll-On Pain Relief Oil",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-241",
+  "generic": "Carica Papaya Leaf Extract + Tulsi + Kiwi + Giloy Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-242",
+  "generic": "Carica Papaya Leaf Extract + Tulsi + Giloy Tablet",
+  "dosageForm": "Tablet",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-243",
+  "generic": "Ayurvedic Uterine Tonic Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-244",
+  "generic": "Laxative Powder (Ayurvedic)",
+  "dosageForm": "Powder",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-245",
+  "generic": "Liver Protection Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-246",
+  "generic": "Liver Tonic with Enzymes Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-247",
+  "generic": "Liver Tonic Syrup (4G)",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-248",
+  "generic": "Herbal Liver Tonic Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-249",
+  "generic": "Kidney Care Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-250",
+  "generic": "Kidney Care Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-251",
+  "generic": "Baby Massage Oil",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-252",
+  "generic": "Joint Care Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-253",
+  "generic": "Weight Management Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-254",
+  "generic": "Respiratory Care Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-255",
+  "generic": "Thyroid Support Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-256",
+  "generic": "Neem, Tulsi & Aloe Vera Bath Soap",
+  "dosageForm": "Soap",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-257",
+  "generic": "Blood Sugar Support Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-258",
+  "generic": "Joint & Muscle Oil",
+  "dosageForm": "Oil",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-259",
+  "generic": "Joint & Muscle Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-260",
+  "generic": "Bone & Joint Wellness Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-261",
+  "generic": "Haldi Chandan Bath Soap",
+  "dosageForm": "Soap",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-262",
+  "generic": "Women's Wellness Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-263",
+  "generic": "Platelet Support Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-264",
+  "generic": "Herbal Digestive Enzyme Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-265",
+  "generic": "Urinary Care Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-266",
+  "generic": "Blood Purifier Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-267",
+  "generic": "Haemorrhoid Care Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-268",
+  "generic": "Ayurvedic Antacid Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-269",
+  "generic": "Liver Care Capsule",
+  "dosageForm": "Capsule",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-270",
+  "generic": "Ayurvedic Laxative Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-271",
+  "generic": "Immunity & Fever Care Syrup",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-272",
+  "generic": "Neem Karela Juice",
+  "dosageForm": "Juice",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ },
+ {
+  "id": "sg-273",
+  "generic": "Blood Purifier Syrup (Rakt)",
+  "dosageForm": "Syrup",
+  "category": "Ayurveda & Herbal",
+  "packs": [],
+  "flags": [
+   "AYUSH product — export under AYUSH/WHO-GMP; no disease-cure claims on site (EU/US/UK rules)"
+  ],
+  "segment": "Ayurveda",
+  "sourceBrandRef": ""
+ }
+]
