@@ -324,7 +324,7 @@ export function ContactForm() {
             </div>
           )}
 
-          <AnimatePresence mode="wait">
+          <AnimatePresence mode="wait" initial={false}>
             {/* STEP 1: WHO YOU ARE */}
             {currentStep === 1 && (
               <motion.div

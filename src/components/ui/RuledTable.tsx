@@ -25,7 +25,12 @@ export function RuledTable<T>({
   ...props
 }: RuledTableProps<T>) {
   return (
-    <div className="w-full overflow-x-auto border-t border-b border-rule">
+    <div
+      tabIndex={0}
+      role="region"
+      aria-label="Tabular data view"
+      className="w-full overflow-x-auto border-t border-b border-rule focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-accent-700"
+    >
       <table
         className={twMerge(clsx("w-full border-collapse text-left text-sm", className))}
         {...props}

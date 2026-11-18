@@ -14,7 +14,12 @@ export function ProcurementTable({ products }: ProcurementTableProps) {
   const { items, addItem } = useEnquiryBasket();
 
   return (
-    <div className="w-full overflow-x-auto border border-rule rounded-[2px] bg-porcelain">
+    <div
+      tabIndex={0}
+      role="region"
+      aria-label="Formulations procurement table"
+      className="w-full overflow-x-auto border border-rule rounded-[2px] bg-porcelain focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-accent-700"
+    >
       <table className="w-full text-left border-collapse text-sm">
         <caption className="sr-only">
           Pharmaceutical Formulation Export Procurement Formulary and Specifications

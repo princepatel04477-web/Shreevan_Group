@@ -137,7 +137,12 @@ export function CH03Quality() {
                 </div>
 
                 {/* Analytical Test Results Table */}
-                <div className="overflow-x-auto">
+                <div
+                  tabIndex={0}
+                  role="region"
+                  aria-label="Certificate of Analysis analytical test results table"
+                  className="overflow-x-auto focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-accent-700"
+                >
                   <table className="w-full text-left font-mono text-xs">
                     <thead>
                       <tr className="border-b border-rule text-ink-3 text-[10px] uppercase tracking-wider">
