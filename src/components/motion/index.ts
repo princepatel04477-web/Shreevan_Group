@@ -7,3 +7,8 @@ export * from "./ImageCurtain";
 export * from "./MagneticButton";
 export * from "./LinkUnderline";
 export * from "./Loupe";
+export * from "./SpotlightCard";
+export * from "./Marquee";
+export * from "./BlurText";
+export * from "./CountUp";
+export * from "./DecryptedText";

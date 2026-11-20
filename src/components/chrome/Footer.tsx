@@ -4,6 +4,7 @@ import React from "react";
 import Link from "next/link";
 import { company, hasValue, IfFact } from "@/config/company";
 import { ArrowUpRight, Mail, Phone, MapPin } from "lucide-react";
+import { LogoMark } from "@/components/brand/LogoMark";
 
 const CURRENT_YEAR = 2026;
 
@@ -41,13 +42,16 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         {/* Top Colophon Statement & Secondary CTA */}
         <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-8 pb-12 border-b border-rule">
-          <div className="max-w-2xl">
-            <span className="font-mono text-xs uppercase tracking-widest text-ink-3 block mb-3">
-              Export Dossier · Colophon
-            </span>
-            <h2 className="font-display font-light text-3xl sm:text-4xl lg:text-5xl tracking-tight text-ink leading-[1.15]">
-              Every shipment leaves with its paperwork.
-            </h2>
+          <div className="max-w-2xl space-y-4">
+            <LogoMark variant="horizontal" size="lg" />
+            <div>
+              <span className="font-mono text-xs uppercase tracking-widest text-ink-3 block mb-2">
+                Export Dossier · Colophon
+              </span>
+              <h2 className="font-display font-light text-3xl sm:text-4xl lg:text-5xl tracking-tight text-ink leading-[1.15]">
+                Every shipment leaves with its paperwork.
+              </h2>
+            </div>
           </div>
 
           <div className="shrink-0">

@@ -4,11 +4,36 @@ import React from "react";
 import Link from "next/link";
 import { company } from "@/config/company";
 import { getPublicProducts } from "@/lib/catalogue";
-import { SplitHeading } from "@/components/motion/SplitHeading";
+import { LogoMark } from "@/components/brand/LogoMark";
+import { BlurText } from "@/components/motion/BlurText";
+import { SpotlightCard } from "@/components/motion/SpotlightCard";
+import { CountUp } from "@/components/motion/CountUp";
+import { DecryptedText } from "@/components/motion/DecryptedText";
+import { Marquee } from "@/components/motion/Marquee";
 import { MagneticButton } from "@/components/motion/MagneticButton";
 import { LinkUnderline } from "@/components/motion/LinkUnderline";
-import { FactRoll } from "@/components/motion/FactRoll";
 import { Chapter } from "@/components/journey/Chapter";
+
+const MARQUEE_FORMS = [
+  "TABLETS & SOLID ORALS",
+  "HARD & SOFT GELATIN CAPSULES",
+  "ORAL LIQUIDS & SUSPENSIONS",
+  "DRY SYRUPS & SUSPENSIONS",
+  "STERILE SMALL VOLUME PARENTERALS",
+  "TOPICAL OINTMENTS & GELS",
+  "AYURVEDA & CLASSICAL HERBAL EXTRACTS",
+];
+
+const MARQUEE_STANDARDS = [
+  "BRITISH PHARMACOPOEIA (BP)",
+  "UNITED STATES PHARMACOPEIA (USP)",
+  "INDIAN PHARMACOPOEIA (IP)",
+  "EUROPEAN PHARMACOPOEIA (PH. EUR.)",
+  "SCHEDULE M (cGMP) STANDARDS",
+  "WHO-GMP COMPLIANT PARTNER FACILITIES",
+  "CDSCO EXPORT CERTIFIED",
+  "DGFT LICENSED MERCHANT EXPORTER",
+];
 
 export function CH01Formulation() {
   const products = getPublicProducts();
@@ -28,7 +53,7 @@ export function CH01Formulation() {
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-rule pb-4">
           <div className="flex items-center gap-3">
             <span className="font-mono text-xs uppercase tracking-[0.16em] text-accent-700 font-bold">
-              CH-01 / FORMULATION & SOURCING
+              CH-01 / FORMULATION &amp; SOURCING
             </span>
             <span className="text-rule">|</span>
             <span className="font-mono text-xs uppercase tracking-[0.14em] text-ink-3">
@@ -36,11 +61,16 @@ export function CH01Formulation() {
             </span>
           </div>
           <div className="flex items-center gap-2">
-            <span className="w-2 h-2 rounded-full bg-accent-700" aria-hidden="true" />
+            <span className="w-2 h-2 rounded-full bg-accent-700 animate-pulse" aria-hidden="true" />
             <span className="font-mono text-xs text-ink-3 uppercase tracking-wider">
               BATCH STAGE: REGULATORY DOCKET
             </span>
           </div>
+        </div>
+
+        {/* Brand Logo Highlight Centerpiece for Hero */}
+        <div className="flex justify-start sm:justify-center lg:justify-start pt-2">
+          <LogoMark variant="hero" priority />
         </div>
 
         {/* Main Grid: Left 5/12 Editorial Content, Right 7/12 Technical Dossier Specification */}
@@ -48,7 +78,7 @@ export function CH01Formulation() {
           {/* Left Column (5 cols) */}
           <div className="lg:col-span-5 space-y-6">
             <div className="space-y-4">
-              <SplitHeading
+              <BlurText
                 text="Medicines made in India, documented for the world."
                 as="h1"
                 className="font-display text-4xl sm:text-5xl lg:text-6xl font-light text-ink tracking-tight leading-[1.08]"
@@ -79,101 +109,116 @@ export function CH01Formulation() {
             </p>
           </div>
 
-          {/* Right Column (7 cols): Editorial Technical Specification Board */}
-          <div className="lg:col-span-7 bg-paper border border-rule p-6 sm:p-8 rounded-[2px] shadow-[0_2px_8px_rgba(15,27,36,0.03)] space-y-6">
-            {/* Spec Sheet Header */}
-            <div className="flex items-center justify-between border-b border-rule pb-3">
-              <span className="font-mono text-xs uppercase tracking-[0.14em] text-accent-700 font-bold">
-                EXPORT SPECIFICATION DOCKET
-              </span>
-              <span className="font-mono text-[11px] text-ink-3 uppercase tracking-wider">
-                REF: SG-SPEC-INDEX
-              </span>
-            </div>
-
-            {/* Specification Grid */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-              <div className="space-y-1.5 border-l-2 border-accent-700 pl-3">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
-                  01 / PHARMACOPOEIA STANDARDS
+          {/* Right Column (7 cols): SpotlightCard Dossier Specification Board */}
+          <div className="lg:col-span-7">
+            <SpotlightCard
+              spotlightColor="rgba(198, 156, 109, 0.12)"
+              className="p-6 sm:p-8 space-y-6 shadow-[0_4px_24px_rgba(15,27,36,0.04)]"
+            >
+              {/* Spec Sheet Header */}
+              <div className="flex items-center justify-between border-b border-rule pb-3">
+                <span className="font-mono text-xs uppercase tracking-[0.14em] text-accent-700 font-bold">
+                  EXPORT SPECIFICATION DOCKET
                 </span>
-                <p className="font-mono text-sm font-semibold text-ink">
-                  IP · BP · USP · Ph. Eur.
-                </p>
-                <p className="font-body text-xs text-ink-3 leading-normal">
-                  Analytical testing verified against destination country compendial monographs.
-                </p>
-              </div>
-
-              <div className="space-y-1.5 border-l-2 border-rule pl-3">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
-                  02 / MANUFACTURING COMPLIANCE
+                <span className="font-mono text-[11px] text-ink-3 uppercase tracking-wider">
+                  <DecryptedText text="REF: SG-SPEC-2024-CH01" animateOn="view" />
                 </span>
-                <p className="font-mono text-sm font-semibold text-ink">
-                  Licensed GMP Partners
-                </p>
-                <p className="font-body text-xs text-ink-3 leading-normal">
-                  Inspected facilities adhering to Schedule M / WHO-GMP quality guidelines.
-                </p>
               </div>
 
-              <div className="space-y-1.5 border-l-2 border-rule pl-3">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
-                  03 / DOSSIER COMPILATION
-                </span>
-                <p className="font-mono text-sm font-semibold text-ink">
-                  CTD & ACTD Modules
-                </p>
-                <p className="font-body text-xs text-ink-3 leading-normal">
-                  Technical dossier packages ready for health ministry submission.
-                </p>
+              {/* Specification Grid */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+                <div className="space-y-1.5 border-l-2 border-accent-700 pl-3.5">
+                  <span className="font-mono text-[10px] uppercase tracking-wider text-accent-700 block font-semibold">
+                    01 / PHARMACOPOEIA STANDARDS
+                  </span>
+                  <p className="font-mono text-sm font-semibold text-ink">
+                    IP · BP · USP · Ph. Eur.
+                  </p>
+                  <p className="font-body text-xs text-ink-3 leading-normal">
+                    Analytical testing verified against destination country compendial monographs.
+                  </p>
+                </div>
+
+                <div className="space-y-1.5 border-l-2 border-[#C69C6D] pl-3.5">
+                  <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
+                    02 / MANUFACTURING COMPLIANCE
+                  </span>
+                  <p className="font-mono text-sm font-semibold text-ink">
+                    Licensed GMP Partners
+                  </p>
+                  <p className="font-body text-xs text-ink-3 leading-normal">
+                    Inspected facilities adhering to Schedule M / WHO-GMP quality guidelines.
+                  </p>
+                </div>
+
+                <div className="space-y-1.5 border-l-2 border-rule pl-3.5">
+                  <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
+                    03 / DOSSIER COMPILATION
+                  </span>
+                  <p className="font-mono text-sm font-semibold text-ink">
+                    CTD &amp; ACTD Modules
+                  </p>
+                  <p className="font-body text-xs text-ink-3 leading-normal">
+                    Technical dossier packages ready for health ministry submission.
+                  </p>
+                </div>
+
+                <div className="space-y-1.5 border-l-2 border-rule pl-3.5">
+                  <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
+                    04 / CLIMATIC STABILITY
+                  </span>
+                  <p className="font-mono text-sm font-semibold text-ink">
+                    Zone IVb Verified
+                  </p>
+                  <p className="font-body text-xs text-ink-3 leading-normal">
+                    Stability data supporting 36-month shelf life in tropical export corridors.
+                  </p>
+                </div>
               </div>
 
-              <div className="space-y-1.5 border-l-2 border-rule pl-3">
-                <span className="font-mono text-[10px] uppercase tracking-wider text-ink-3 block">
-                  04 / CLIMATIC STABILITY
-                </span>
-                <p className="font-mono text-sm font-semibold text-ink">
-                  Zone IVb Verified
-                </p>
-                <p className="font-body text-xs text-ink-3 leading-normal">
-                  Stability data supporting 36-month shelf life in tropical export corridors.
-                </p>
+              {/* Spec Sheet Footer Bar */}
+              <div className="border-t border-rule pt-4 flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-ink-2 bg-paper/60 p-3.5 rounded-[2px] border border-rule/70">
+                <div>
+                  <span className="text-ink-3 mr-2">OUTBOUND PORTS:</span>
+                  <span className="font-semibold text-ink">Nhava Sheva (INNSA) · Mundra (INMUN)</span>
+                </div>
+                <div>
+                  <span className="text-ink-3 mr-2">TERMS:</span>
+                  <span className="font-semibold text-accent-700">CIF · FOB · EXW · CIP</span>
+                </div>
               </div>
-            </div>
-
-            {/* Spec Sheet Footer Bar */}
-            <div className="border-t border-rule pt-4 flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-ink-2 bg-porcelain p-3 rounded-[2px] border">
-              <div>
-                <span className="text-ink-3 mr-2">PRIMARY PORTS:</span>
-                <span className="font-semibold text-ink">Nhava Sheva (INNSA) · Mundra (INMUN)</span>
-              </div>
-              <div>
-                <span className="text-ink-3 mr-2">TERMS:</span>
-                <span className="font-semibold text-accent-700">CIF · FOB · EXW · CIP</span>
-              </div>
-            </div>
+            </SpotlightCard>
           </div>
         </div>
 
-        {/* Bottom Fact Rail */}
+        {/* Dynamic Typography Marquee Ribbons */}
+        <div className="pt-2 space-y-1">
+          <Marquee items={MARQUEE_FORMS} speed={32} direction="left" />
+          <Marquee items={MARQUEE_STANDARDS} speed={36} direction="right" separator="|" />
+        </div>
+
+        {/* Bottom Fact Rail with CountUp animations */}
         <div className="border-t border-rule pt-4 grid grid-cols-2 sm:grid-cols-4 gap-6">
           <div>
-            <FactRoll
-              value={productCount}
-              label="Formulations in catalogue"
-              asOf={asOfDate}
-            />
+            <span className="font-mono text-xs uppercase tracking-[0.14em] text-ink-3 block mb-1">
+              FORMULATIONS IN CATALOGUE
+            </span>
+            <span className="font-data text-2xl lg:text-3xl font-light text-ink">
+              <CountUp to={productCount} /> Formulations
+            </span>
+            <span className="block font-mono text-[10px] text-ink-3 mt-1">
+              As of {asOfDate}
+            </span>
           </div>
           <div>
             <span className="font-mono text-xs uppercase tracking-[0.14em] text-ink-3 block mb-1">
               DOSAGE FORMS
             </span>
             <span className="font-data text-2xl lg:text-3xl font-light text-ink">
-              7 Forms
+              7 Dosage Forms
             </span>
             <span className="block font-mono text-[10px] text-ink-3 mt-1">
-              Tablets, Caps, Liquids, Injections
+              Solid, Liquid &amp; Sterile
             </span>
           </div>
           <div>
@@ -181,10 +226,10 @@ export function CH01Formulation() {
               QUALITY REGIME
             </span>
             <span className="font-data text-xl lg:text-2xl font-light text-ink">
-              GMP Certified
+              WHO-GMP Partners
             </span>
             <span className="block font-mono text-[10px] text-ink-3 mt-1">
-              Licensed partner units
+              Inspected facilities
             </span>
           </div>
           <div>

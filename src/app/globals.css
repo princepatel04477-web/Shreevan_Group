@@ -104,3 +104,14 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--ink-3);
 }
+
+/* Infinite Marquee Animations (React Bits / Vengeance UI) */
+@keyframes marquee-left {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes marquee-right {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0%); }
+}

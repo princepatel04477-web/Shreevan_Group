@@ -2,10 +2,10 @@
 
 import React, { useState, useEffect, useRef, useCallback, useSyncExternalStore } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { motion, AnimatePresence } from "motion/react";
 import { ChevronDown, Menu, ShoppingBag } from "lucide-react";
 import { Button } from "@/components/ui/Button";
+import { LogoMark } from "@/components/brand/LogoMark";
 import { FormularyMegaMenu } from "./FormularyMegaMenu";
 import { ExportServicesMegaMenu } from "./ExportServicesMegaMenu";
 import { MobileMenu } from "./MobileMenu";
@@ -164,28 +164,8 @@ export function Header() {
         }`}
       >
         <div className="max-w-7xl mx-auto h-full px-6 md:px-12 flex items-center justify-between">
-          {/* Left: Logo & Wordmark */}
-          <Link
-            href="/"
-            className="flex items-center gap-3.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent-700 rounded-[2px]"
-          >
-            <Image
-              src="/brand/logo.svg"
-              alt=""
-              width={38}
-              height={38}
-              style={{ width: "auto", height: "36px" }}
-              priority
-            />
-            <div className="flex flex-col">
-              <span className="font-display font-light text-xl tracking-tight text-ink leading-tight">
-                SHREEVAN
-              </span>
-              <span className="font-mono text-[9px] uppercase tracking-widest text-ink-3">
-                Export Desk
-              </span>
-            </div>
-          </Link>
+          {/* Left: Brand Logo & Wordmark Highlight */}
+          <LogoMark variant="horizontal" size="md" priority />
 
           {/* Desktop Navigation Links */}
           <nav
