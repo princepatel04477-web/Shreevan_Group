@@ -1,7 +1,6 @@
 "use client";
 
-import React, { useRef } from "react";
-import gsap from "gsap";
+import React from "react";
 import { Chapter } from "@/components/journey/Chapter";
 import { Loupe } from "@/components/motion/Loupe";
 
@@ -39,36 +38,19 @@ const CHECKPOINTS = [
 ];
 
 export function CH03Quality() {
-  const loupeReticleRef = useRef<HTMLDivElement>(null);
-
-  // Setup scrubbed loupe glide across the 5 checkpoints on desktop
-  const setupTimeline = (tl: gsap.core.Timeline) => {
-    const reticle = loupeReticleRef.current;
-    if (!reticle) return;
-
-    tl.fromTo(
-      reticle,
-      { y: 0, opacity: 0.2 },
-      { y: 220, opacity: 1, ease: "power1.inOut", duration: 0.7 },
-      0
-    );
-  };
-
   return (
     <Chapter
       index={3}
       id="chapter-quality"
       title="Quality"
       docId="gmp"
-      length="+=140%"
-      setupTimeline={setupTimeline}
     >
-      <div className="w-full h-full flex flex-col justify-between">
+      <div className="w-full flex flex-col justify-between gap-8">
         {/* Chapter Header */}
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-rule pb-4">
           <div className="flex items-center gap-3">
             <span className="font-mono text-xs uppercase tracking-[0.16em] text-accent-700 font-bold">
-              CH-03 / QUALITY
+              CH-03 / QUALITY ASSURANCE
             </span>
             <span className="text-rule">|</span>
             <h2 className="font-display text-2xl lg:text-3xl font-light text-ink">
@@ -84,20 +66,9 @@ export function CH03Quality() {
         </div>
 
         {/* Main Content Grid: COA Sheet (Left 7) and Explanatory Checklist (Right 5) */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start py-6 my-auto">
-          {/* Left Column: Sample Certificate of Analysis with Loupe inspection */}
-          <div className="lg:col-span-7 bg-paper border border-rule p-6 relative rounded-[2px] shadow-[0_2px_12px_rgba(15,27,36,0.04)]">
-            {/* Sliding Loupe Reticle Line (desktop GSAP scrubbed) */}
-            <div
-              ref={loupeReticleRef}
-              aria-hidden="true"
-              className="hidden lg:block absolute left-3 right-3 top-20 pointer-events-none z-10"
-            >
-              <div className="border-b-2 border-accent-700 shadow-[0_0_12px_rgba(180,83,42,0.4)] relative flex items-center justify-end h-0.5">
-                <span className="w-2.5 h-2.5 rounded-full bg-accent-700 absolute -top-1 right-4 ring-2 ring-porcelain" />
-              </div>
-            </div>
-
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start py-2">
+          {/* Left Column: Sample Certificate of Analysis */}
+          <div className="lg:col-span-7 bg-paper border border-rule p-6 relative rounded-[2px] shadow-[0_2px_8px_rgba(15,27,36,0.03)]">
             <Loupe>
               <div className="space-y-4">
                 {/* Document Header */}
@@ -195,68 +166,52 @@ export function CH03Quality() {
             </Loupe>
           </div>
 
-          {/* Right Column: 5 Inspection Checkpoint Cards & Three Commitments */}
-          <div className="lg:col-span-5 space-y-6">
-            <div className="space-y-3">
-              <span className="font-mono text-xs uppercase tracking-[0.14em] text-accent-700 font-bold block">
-                ANALYTICAL RIGOUR
+          {/* Right Column: 5 Inspection Checkpoint Cards & Commitments */}
+          <div className="lg:col-span-5 space-y-5">
+            <div className="space-y-2">
+              <span className="font-mono text-xs uppercase tracking-[0.14em] text-accent-700 font-bold">
+                MANDATORY BATCH VERIFICATION
               </span>
+              <h3 className="font-display text-xl text-ink font-light">
+                Every Consignment Re-Tested Before Port Lading
+              </h3>
               <p className="font-body text-sm text-ink-2 leading-relaxed">
-                Before any batch is packed for export, finished goods undergo rigorous testing at
-                licensed GMP-certified manufacturing laboratories. Every result is documented on the
-                batch Certificate of Analysis.
+                We bridge Indian manufacturing standards with the specific regulatory pharmacopeias required by recipient health ministries.
               </p>
             </div>
 
-            {/* Checkpoint Cards List */}
-            <div className="space-y-2.5">
+            {/* Checkpoint Cards */}
+            <div className="space-y-3">
               {CHECKPOINTS.map((cp, idx) => (
                 <div
                   key={cp.id}
-                  className="bg-paper border border-rule p-3 hover:border-accent-700/50 transition-colors"
+                  className="p-3 bg-paper border border-rule hover:border-accent-700/60 transition-colors rounded-[2px]"
                 >
-                  <div className="flex items-center justify-between mb-1">
+                  <div className="flex items-center justify-between">
                     <span className="font-mono text-xs text-accent-700 font-bold">
-                      0{idx + 1}. {cp.label}
+                      0{idx + 1} / {cp.label}
                     </span>
-                    <span className="font-mono text-[10px] text-ink-3 bg-mist px-1.5 py-0.5">
+                    <span className="font-mono text-xs text-ink font-semibold">
                       {cp.ref}
                     </span>
                   </div>
-                  <p className="font-body text-xs text-ink-2 leading-relaxed">
+                  <p className="font-body text-xs text-ink-3 mt-1 leading-normal">
                     {cp.desc}
                   </p>
                 </div>
               ))}
             </div>
-
-            {/* Three Export Commitments */}
-            <div className="border-t border-rule pt-4 space-y-2">
-              <span className="font-mono text-xs uppercase tracking-[0.14em] text-ink block font-semibold">
-                OUR THREE EXPORT COMMITMENTS
-              </span>
-              <ul className="space-y-1.5 font-body text-xs text-ink-2">
-                <li className="flex items-start gap-2">
-                  <span className="text-accent-700 font-bold">•</span>
-                  <span>Batch-wise COA delivered with every commercial consignment.</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-accent-700 font-bold">•</span>
-                  <span>Destination-appropriate packaging and bilingual regulatory labelling.</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-accent-700 font-bold">•</span>
-                  <span>Formal complaint handling and batch recall procedure maintained on file.</span>
-                </li>
-              </ul>
-            </div>
           </div>
         </div>
 
-        {/* Footer Guarantee */}
+        {/* Footer Note */}
         <div className="border-t border-rule pt-4 flex flex-wrap items-center justify-between gap-4 font-mono text-xs text-ink-3">
-          <span>COA Format: WHO Technical Report Series Guidelines</span>
-          <span>Sourced from licensed GMP-certified manufacturing partners</span>
+          <span>
+            Testing performed in partner QC facilities audited under Good Laboratory Practices (cGLP).
+          </span>
+          <span>
+            Original counter-signed COA dispatched inside shipping document packet.
+          </span>
         </div>
       </div>
     </Chapter>

@@ -1,6 +1,4 @@
 import React from "react";
-import { BatchTicket } from "@/components/journey/BatchTicket";
-import { DossierStack } from "@/components/journey/DossierStack";
 import {
   CH01Formulation,
   CH02Portfolio,
@@ -11,21 +9,15 @@ import {
 } from "@/components/journey";
 
 export const metadata = {
-  title: "Shreevan Group — Molecule to Manifest | Indian Pharmaceutical Exporter",
+  title: "Shreevan Group — Indian Pharmaceutical Merchant Exporter",
   description:
-    "Indian pharmaceutical merchant exporter supplying finished formulations and Ayurveda to international markets with full regulatory dossiers.",
+    "Supplying finished pharmaceutical formulations and Ayurveda to international markets with complete regulatory dossiers, GMP certification, and export documentation.",
 };
 
 export default function Home() {
   return (
     <div className="relative w-full bg-paper text-ink min-h-screen">
-      {/* BatchTicket: fixed progress ticket on top-right on desktop */}
-      <BatchTicket />
-
-      {/* DossierStack: fixed paper stack accumulating export documents as user scrolls */}
-      <DossierStack />
-
-      {/* Six Interactive Chapters: Desk-sheet stacking export journey */}
+      {/* Six Editorial Chapters: Natural vertical scroll without scroll-pinning or HUD clutter */}
       <main id="main-content" className="w-full">
         <CH01Formulation />
         <CH02Portfolio />
